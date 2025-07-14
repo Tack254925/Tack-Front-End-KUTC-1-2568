@@ -1,0 +1,25 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+
+h1{
+
+  display:none;
+
+}
+@media (max-width:500px){
+
+    body{
+
+        background-color: brown;
+    }
+
+    #smartphone h1 {
+        display: block;
+        color: blueviolet;
+    }
+    h2 {
+        display: none;
+    }
+}

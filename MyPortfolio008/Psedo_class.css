@@ -1,0 +1,25 @@
+.heading:hover{
+
+    color:brown;
+    font-size: 60px;
+
+
+}
+
+.heading:hover{
+
+    background-color: black;
+}
+
+#input:focus{
+
+    background-color: black;
+    color: azure;
+}
+   .list li:first-child{
+   background-color:brown;
+    color:azure;
+
+
+
+}
